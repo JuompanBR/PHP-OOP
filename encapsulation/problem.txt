@@ -1,0 +1,7 @@
+Exercise 1: Class and Object Creation
+Concepts Covered: Classes, Objects, Properties, Methods
+• Create a class Car with properties: $brand, $model, and $year.
+• Add a constructor to initialize these properties.
+• Add a method getCarInfo() that returns a string with the car’s
+details.
+• Instantiate the Car class and display its details
