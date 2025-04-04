@@ -1,8 +1,10 @@
 <?php
 
-namespace App;
+namespace App\Encapsulation;
 
-class Car
+use App\Inheritance\Vehicle;
+
+class Car extends Vehicle
 {
     /**
      * @var string The brand name of the car
