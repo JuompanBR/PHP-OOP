@@ -5,9 +5,8 @@ namespace App\Inheritance;
 /**
  * Class Vehicle Describes a vehicle
  * @package App
- * @abstract
  */
-abstract class Vehicle 
+class Vehicle 
 {
     /**
      * @var string The color of the vehicle
