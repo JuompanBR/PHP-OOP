@@ -1,0 +1,24 @@
+Exercise 3: Inheritance 
+Concepts Covered: Parent & Child Classes, Overriding Methods 
+• Create a Vehicle base class with properties: $color and $speed. 
+• Add a method describe() that prints a basic description of the 
+vehicle. 
+• Create a Bike class that extends Vehicle and adds a property 
+$type (e.g., "mountain", "road"). 
+• Override the describe() method to include the bike type. 
+Exercise 4: Polymorphism 
+Concepts Covered: Method Overriding, In
+
+Define an interface Shape with a method getArea(). 
+• Create Rectangle and Circle classes that implement Shape. 
+• Implement the getArea() method in both classes (Rectangle 
+using width × height, Circle using π × r²). 
+• Instantiate both classes and display their areas. 
+Exercise 5: Abstract Classes 
+Concepts Covered: Abstract Classes & Methods 
+• Create an abstract class Employee with properties $name and 
+$salary. 
+• Add an abstract method calculateBonus(). 
+• Create two subclasses Manager and Developer, each 
+implementing calculateBonus() with different logic. 
+• Instantiate both subclasses and calculate bonu

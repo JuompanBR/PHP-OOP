@@ -1,0 +1,5 @@
+1) You donot expect singleto to be extended. Therefore donot 
+define abstract singletons.
+2) Most at times "protected" visibility is used in the case of abstract classes.
+3) Whenever you are creating a base class, you should always think whether it can become 
+a parent in the future.
